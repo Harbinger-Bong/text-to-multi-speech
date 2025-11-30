@@ -7,7 +7,7 @@ A modular Python wrapper for Piper TTS supporting English, Malayalam, and Arabic
 - Multi-language support: English, Malayalam (മലയാളം), Arabic (العربية)
 - Automatic language detection: Detects input language automatically
 - Interactive mode: Real-time keyboard input with TTS
-- High quality audio: Uses `synthesize_wav()` for natural-sounding voices
+- High quality audio
 - Modular design: Easy to extend with more languages
 - Offline: Fully local, no API calls required
 
